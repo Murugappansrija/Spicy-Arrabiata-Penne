@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.maindiv{
+        
+    background: url(https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+   height: 100%;
+}
+ 
+  
+  
+
+.foodcard{
+    padding: 10px;
+    width: 70vw;
+    padding: 10px;
+   
+   
+}
+
+#header{
+    height: 50px;
+    
+    background-color: lightblue;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    padding: 10px;
+}
+
+#content{
+    
+    background-color: lightblue;
+    padding: 20px;
+    
+    
+}
+span{
+    color : rgb(231, 31, 31);
+}
+a{
+    color: red;
+}
+#images{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: transparent;
+}
+#imagess{
+    height: 300px;
+    width: 700px;
+}
+
+
